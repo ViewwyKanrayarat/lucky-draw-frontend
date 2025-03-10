@@ -1,0 +1,28 @@
+{
+  "name": "lucky-draw",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "@vuetify/vite-plugin": "^1.0.0-alpha.11",
+    "axios": "^1.8.2",
+    "canvas-confetti": "^1.9.3",
+    "mitt": "^3.0.1",
+    "pinia": "^3.0.1",
+    "sass": "^1.85.1",
+    "uuid": "^11.1.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.5.0",
+    "vuetify": "^3.7.0-beta.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}
