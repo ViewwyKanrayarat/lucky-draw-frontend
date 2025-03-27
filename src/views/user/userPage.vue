@@ -1,6 +1,6 @@
 <template>
   <div class="d-flex justify-center align-center mt-10">
-    <div class="title">Top Lucky Draw</div>
+    <div class="title">Top Name Lucky Draw</div>
     <div><v-img width="60" src="../icon/medal.png"></v-img></div>
   </div>
   <div class="d-flex justify-center">
